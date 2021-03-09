@@ -1,6 +1,6 @@
 # react-shimmer-effect
 
-> Animation is about creating illustion of life.
+> Animation is about creating illusion of life.
 
 React-Shimmer-Effect, `<Shimmer>` component that simulates a [**shimmer**](https://github.com/facebook/Shimmer) effect for the children elements.More customisable is on the way.
 
